@@ -9,5 +9,10 @@
 <body>
 <h1>안녕하세요. 게시판에 오신것을 환영합니다.</h1>
 <span style="color:red">잘되려나? 테스트중</span>
+<ul>
+	<li>하나</li>
+	<li>둘</li>
+	<li>셋</li>
+</ul>
 </body>
 </html>
