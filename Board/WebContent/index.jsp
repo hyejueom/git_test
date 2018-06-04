@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>안녕하세요. 게시판에 오신것을 환영합니다.</h1>
+<span style="color:red">잘되려나? 테스트중</span>
 </body>
 </html>
