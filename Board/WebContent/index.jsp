@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+안녕하세요. 게시판에 오신것을 환영합니다.
 </body>
 </html>
